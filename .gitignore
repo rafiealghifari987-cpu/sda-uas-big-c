@@ -1,0 +1,8 @@
+# Dataset files (terlalu besar untuk GitHub)
+docword.*.txt
+vocab.*.txt
+*.txt
+
+# Output files
+output_*.txt
+program.exe
